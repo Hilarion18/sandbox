@@ -295,11 +295,14 @@
         <mxCell id="zg05PNiB-92hqM9WAnHo-21" value="Waiting status delivery" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="167.5" y="-810" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zg05PNiB-92hqM9WAnHo-22" value="&lt;b&gt;Sum the point&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- for every 1 USD customer get 0.01 USD&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Expiration 1 year&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="zg05PNiB-92hqM9WAnHo-22" value="&lt;b&gt;Sum customer point&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- for every 1 USD customer get 0.01 USD&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Expiration 1 year&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-241.25" y="-605" width="157.5" height="135" as="geometry" />
         </mxCell>
         <mxCell id="zg05PNiB-92hqM9WAnHo-35" value="Delivery status cancel" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="-552.5" width="132.5" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zg05PNiB-92hqM9WAnHo-42" value="Job every 00.00 will update point expiration" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1100" width="195" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
